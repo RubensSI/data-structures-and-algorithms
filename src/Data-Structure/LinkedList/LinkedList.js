@@ -11,7 +11,6 @@ export default class LinkedList {
         /** @var LinkedListNode */
         this.tail = null;
 
-        this.
         this.compare = new Comparator(comparatorFunction);
     }
 
