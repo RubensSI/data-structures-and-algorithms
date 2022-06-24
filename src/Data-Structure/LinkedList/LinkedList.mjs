@@ -1,5 +1,5 @@
 import LinkedListNode from './LinkedListNode'
-import Comparator from '../utils/comparator/Comparator'
+import Comparator from '../../utils/comparator/Comparetor'
 
 export default class LinkedList {
   /**
